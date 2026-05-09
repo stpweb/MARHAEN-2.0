@@ -220,8 +220,9 @@ Skill ini bersifat terbuka untuk pengembangan komunitas dengan ketentuan lisensi
 
 **Coach Dhimas Sapto**
 Pendiri dan Chief Coach, **Coach Dhimas Catalyst Institute (CDCI)**
-
-CDCI adalah lembaga pengembangan kapasitas yang berfokus pada pemberdayaan UMKM, kepemimpinan kerakyatan, dan integrasi pemikiran strategis dengan nilai-nilai Indonesia. Skill MARHAEN 2.0 adalah bagian dari komitmen CDCI untuk menghadirkan kecerdasan buatan yang berpihak pada rakyat kecil dan kedaulatan nasional.
+Coach Dhimas Catalyst Institute (CDCI) adalah institusi pengembangan kapasitas yang berfokus pada pemikiran strategis, analisis kebijakan, kepemimpinan, dan pemanfaatan AI untuk produktivitas profesional, pemberdayaan UMKM, kepemimpinan kerakyatan, dan integrasi pemikiran strategis dengan nilai-nilai Indonesia. 
+CDCI membangun skill, framework, dan metodologi yang dirancang khusus untuk konteks Indonesia dan Asia Tenggara.
+Skill MARHAEN 2.0 adalah bagian dari komitmen CDCI untuk menghadirkan kecerdasan buatan yang berpihak pada rakyat kecil dan kedaulatan nasional Indonesia.
 
 ---
 
